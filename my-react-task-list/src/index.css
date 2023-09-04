@@ -1,13 +1,56 @@
+body{
+    background-color: lightgreen;
+    display: flex;
+    justify-content: center;
+}
 
+.appTodo
+{
+    background-color: white;
+    padding: 20px;
+    margin: 0;
+}
 
+.h1
+{
+    background-color: white;
+    margin: 0;
+    padding-top: 10px;
+    padding-left: 10px;
 
+}
 
+.task1{
+    background-color: rgb(240, 234, 234);
+    margin: 5px;
+}
+.task2{
+    background-color: rgb(240, 234, 234);
+    margin: 5px;
 
+}
 
+.task3{
+    background-color: rgb(240, 234, 234);
+    margin: 5px;
 
+}
+.task4{
+    background-color: rgb(240, 234, 234);
+    margin: 5px;
 
+}
+button
+{
+    background-color: red;
+    border: 0;
+    color: white;
 
+}
 
-
-
-
+.agg
+{
+    background-color: aqua;
+    color: white;
+    border: 0;
+}
